@@ -1,5 +1,5 @@
 <?php
 
-echo "the start"
+echo "the start";
 
   ?>
